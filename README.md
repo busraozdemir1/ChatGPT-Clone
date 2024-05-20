@@ -6,4 +6,4 @@
 
 ### Gif
 
-<img src="screen.gif" /># ChatGPT-Clone
+<img src="screen.gif" />
